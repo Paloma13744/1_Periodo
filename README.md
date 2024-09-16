@@ -1,6 +1,7 @@
-1º Semestre de Sistemas de Informação 🎓
+**1º Semestre de Sistemas de Informação** 🎓
 
-Descrição Geral 📚
+**Descrição Geral** 📚 
+
 Este repositório contém os códigos desenvolvidos durante o primeiro semestre do curso de Sistemas de Informação. Os exercícios abordam conceitos fundamentais de programação em Java, incluindo:
 
 Arrays: Manipulação de dados em estruturas indexadas, permitindo o armazenamento e acesso eficiente de coleções de elementos. 🗂️
